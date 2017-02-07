@@ -1,0 +1,48 @@
+﻿/*=============================================================
+    Authour URI: www.binarytheme.com
+    License: Commons Attribution 3.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+    100% Free To use For Personal And Commercial Use.
+    IN EXCHANGE JUST GIVE US CREDIT US AND TELL YOUR FRIENDS ABOUT US
+   
+    ========================================================  */
+/* =============================================================
+   GENERAL STYLES FOR HELP DOCCUMENT 
+ ============================================================ */
+body {
+    font-family: 'Open Sans', sans-serif;
+   
+}
+.pad-top {
+    padding-top:50px;
+}
+.text-center {
+    text-align:center;
+}
+p {
+    padding:10px;
+    line-height:30px;
+}
+h3 {
+    text-align:center;
+    padding:40px 0px 40px 0px;
+}
+section {
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+/*TO MAKING NAV BAR LINKS WHITE COLORED */
+.navbar-inverse .navbar-nav > li > a {
+color: #FFF;
+}
+
+.navbar-inverse .navbar-brand {
+color: #FFF;
+}
+
+ul li {
+    line-height:30px;
+}

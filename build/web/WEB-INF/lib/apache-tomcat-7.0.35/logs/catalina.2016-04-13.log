@@ -1,0 +1,398 @@
+Apr 13, 2016 2:44:08 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_77\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Java\jdk1.8.0_40\bin;.
+Apr 13, 2016 2:44:10 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 2:44:10 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 2:44:10 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 3004 ms
+Apr 13, 2016 2:44:10 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Apr 13, 2016 2:44:10 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.35
+Apr 13, 2016 2:44:10 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\docs
+Apr 13, 2016 2:44:11 AM org.apache.catalina.util.SessionIdGenerator createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [192] milliseconds.
+Apr 13, 2016 2:44:11 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\examples
+Apr 13, 2016 2:44:12 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\host-manager
+Apr 13, 2016 2:44:12 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\manager
+Apr 13, 2016 2:44:12 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\ROOT
+Apr 13, 2016 2:44:12 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 2:44:12 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 2:44:12 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1933 ms
+Apr 13, 2016 2:45:17 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 2:45:30 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 2:45:30 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 2:45:30 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 2:45:30 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 2:45:31 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 2:45:31 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 2:45:31 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 2:45:41 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Apr 13, 2016 2:45:41 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 2:45:41 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 2:45:42 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Apr 13, 2016 2:45:42 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 2:45:42 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 2:45:42 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 2:45:42 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 2:46:51 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_77\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Java\jdk1.8.0_40\bin;.
+Apr 13, 2016 2:46:52 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 2:46:52 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 2:46:52 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 821 ms
+Apr 13, 2016 2:46:52 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Apr 13, 2016 2:46:52 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.35
+Apr 13, 2016 2:46:52 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\docs
+Apr 13, 2016 2:46:52 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\examples
+Apr 13, 2016 2:46:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\host-manager
+Apr 13, 2016 2:46:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\manager
+Apr 13, 2016 2:46:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\ROOT
+Apr 13, 2016 2:46:53 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 2:46:53 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 2:46:53 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1112 ms
+Apr 13, 2016 2:47:24 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Apr 13, 2016 2:47:24 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 2:47:24 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 2:47:24 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Apr 13, 2016 2:47:24 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 2:47:24 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 2:47:24 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 2:47:24 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 2:48:46 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_77\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Java\jdk1.8.0_40\bin;.
+Apr 13, 2016 2:48:46 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 2:48:46 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 2:48:46 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 548 ms
+Apr 13, 2016 2:48:46 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Apr 13, 2016 2:48:46 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.35
+Apr 13, 2016 2:48:46 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\docs
+Apr 13, 2016 2:48:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\examples
+Apr 13, 2016 2:48:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\host-manager
+Apr 13, 2016 2:48:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\manager
+Apr 13, 2016 2:48:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\ROOT
+Apr 13, 2016 2:48:47 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 2:48:47 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 2:48:47 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 829 ms
+Apr 13, 2016 2:48:48 AM org.apache.catalina.startup.HostConfig deleteRedeployResources
+INFO: Undeploying context []
+Apr 13, 2016 2:48:48 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\conf\Catalina\localhost\ROOT.xml
+Apr 13, 2016 2:48:50 AM org.apache.catalina.util.LifecycleBase start
+INFO: The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[]] after start() had already been called. The second call will be ignored.
+Apr 13, 2016 3:14:32 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Apr 13, 2016 3:14:32 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 3:14:32 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 3:14:32 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Apr 13, 2016 3:14:33 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 3:14:33 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 3:14:33 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 3:14:33 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 3:14:36 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_77\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Java\jdk1.8.0_40\bin;.
+Apr 13, 2016 3:14:36 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 3:14:36 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 3:14:36 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 541 ms
+Apr 13, 2016 3:14:36 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Apr 13, 2016 3:14:36 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.35
+Apr 13, 2016 3:14:36 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\conf\Catalina\localhost\ROOT.xml
+Apr 13, 2016 3:14:38 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\docs
+Apr 13, 2016 3:14:38 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\examples
+Apr 13, 2016 3:14:38 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\host-manager
+Apr 13, 2016 3:14:38 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\manager
+Apr 13, 2016 3:14:38 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 3:14:38 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 3:14:38 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2288 ms
+Apr 13, 2016 3:15:07 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Apr 13, 2016 3:15:07 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 3:15:07 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 3:15:08 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Apr 13, 2016 3:15:08 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 3:15:08 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 3:15:08 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 3:15:08 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 3:17:54 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_77\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Java\jdk1.8.0_40\bin;.
+Apr 13, 2016 3:17:55 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 3:17:55 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 3:17:55 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 664 ms
+Apr 13, 2016 3:17:55 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Apr 13, 2016 3:17:55 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.35
+Apr 13, 2016 3:17:55 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\conf\Catalina\localhost\ROOT.xml
+Apr 13, 2016 3:17:56 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\docs
+Apr 13, 2016 3:17:56 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\examples
+Apr 13, 2016 3:17:57 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\host-manager
+Apr 13, 2016 3:17:57 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\manager
+Apr 13, 2016 3:17:57 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 3:17:57 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 3:17:57 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2014 ms
+Apr 13, 2016 3:20:01 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Apr 13, 2016 3:20:01 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 3:20:01 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 3:20:01 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Apr 13, 2016 3:20:02 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 3:20:02 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 3:20:02 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 3:20:02 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 4:08:21 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_77\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Java\jdk1.8.0_40\bin;.
+Apr 13, 2016 4:08:21 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 4:08:21 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 4:08:21 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 954 ms
+Apr 13, 2016 4:08:21 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Apr 13, 2016 4:08:21 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.35
+Apr 13, 2016 4:08:21 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\conf\Catalina\localhost\ROOT.xml
+Apr 13, 2016 4:08:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\docs
+Apr 13, 2016 4:08:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\examples
+Apr 13, 2016 4:08:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\host-manager
+Apr 13, 2016 4:08:24 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\manager
+Apr 13, 2016 4:08:24 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 4:08:24 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 4:08:24 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2769 ms
+Apr 13, 2016 4:08:52 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Apr 13, 2016 4:08:52 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 4:08:52 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 4:08:52 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Apr 13, 2016 4:08:52 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 4:08:52 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 4:08:52 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 4:08:52 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 11:41:18 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_77\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Java\jdk1.8.0_40\bin;.
+Apr 13, 2016 11:41:19 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 11:41:19 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 11:41:19 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 649 ms
+Apr 13, 2016 11:41:19 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Apr 13, 2016 11:41:19 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.35
+Apr 13, 2016 11:41:19 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\conf\Catalina\localhost\ROOT.xml
+Apr 13, 2016 11:41:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\docs
+Apr 13, 2016 11:41:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\examples
+Apr 13, 2016 11:41:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\host-manager
+Apr 13, 2016 11:41:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\manager
+Apr 13, 2016 11:41:21 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 11:41:21 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 11:41:21 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2725 ms
+Apr 13, 2016 11:41:40 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Apr 13, 2016 11:41:40 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 11:41:40 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 11:41:40 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Apr 13, 2016 11:41:40 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 11:41:40 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 11:41:40 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 11:41:40 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 11:41:51 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_77\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Java\jdk1.8.0_40\bin;.
+Apr 13, 2016 11:41:51 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 11:41:51 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 11:41:51 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 535 ms
+Apr 13, 2016 11:41:51 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Apr 13, 2016 11:41:51 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.35
+Apr 13, 2016 11:41:51 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\conf\Catalina\localhost\ROOT.xml
+Apr 13, 2016 11:41:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\docs
+Apr 13, 2016 11:41:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\examples
+Apr 13, 2016 11:41:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\host-manager
+Apr 13, 2016 11:41:53 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\LENOVO\Downloads\Compressed\tomcat-7.0.35-all-bin-Tarball-1\tomcat-7.0.35\apache-tomcat-7.0.35\webapps\manager
+Apr 13, 2016 11:41:53 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 11:41:53 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 11:41:53 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1812 ms
+Apr 13, 2016 11:42:11 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 11:42:11 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 11:42:11 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 11:42:11 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 11:42:11 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 11:42:12 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 11:42:12 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 11:42:12 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 11:42:12 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 11:42:13 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 11:42:13 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "Aditya"
+Apr 13, 2016 11:42:32 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Apr 13, 2016 11:42:32 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 11:42:32 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 11:42:32 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Apr 13, 2016 11:42:32 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 11:42:32 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Apr 13, 2016 11:42:32 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Apr 13, 2016 11:42:32 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]

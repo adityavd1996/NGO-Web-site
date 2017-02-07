@@ -1,0 +1,18 @@
+--- 
+package_id: tomcat
+package_version: 7.0.35
+distribution_raw_file: 7.0.35/apache-tomcat-7.0.35.tar.gz
+distribution_type: bin
+distribution_flavor: Tarball
+platform_id: all
+platform_vendor: all
+platform_version: all
+platform_arch: all
+name: Tomcat 7.0.35 Tarball Binary
+description: Tomcat 7.0.35 Tarball Binary
+distribution_notes: ""
+notify: "yes"
+distribution_version: 1
+distribution_file_uuid_string: openlogic-tomcat-7.0.35-all-bin-Tarball-1
+release_date: "2013-01-21"
+distribution_file_uuid: 92d0ce3d1631ffc79f788a4a8a94bc8edcad0099865ffa7328da497b3589c308

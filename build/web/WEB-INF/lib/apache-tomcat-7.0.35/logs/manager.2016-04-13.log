@@ -1,0 +1,28 @@
+Apr 13, 2016 2:48:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Apr 13, 2016 2:48:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Apr 13, 2016 2:48:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 13, 2016 2:48:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/'
+Apr 13, 2016 2:48:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/LENOVO/AppData/Local/Temp/context1993263388166443339.xml'
+Apr 13, 2016 2:48:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/'
+Apr 13, 2016 2:49:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 13, 2016 2:49:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 13, 2016 2:51:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 13, 2016 2:51:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 13, 2016 2:58:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 13, 2016 2:58:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 13, 2016 2:59:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Apr 13, 2016 2:59:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
